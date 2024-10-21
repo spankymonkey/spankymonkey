@@ -1,4 +1,4 @@
-👋 An old fart with experience and attitude.
+👋 <b>An old fart with experience and attitude.</b>
 
 My name is #u& &$h@%
 
