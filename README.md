@@ -10,7 +10,7 @@ Experiences: graphics, 3D animation, illustration, multimedia, web design, small
 Entrepreneur running a small business in energy saving devices. Saved the planet from millions of dollars of energy consuming costs.
 Retired from Wall Street consumed enough stress now living in the desert.
 
-More or Less: PHP, JavaScript, HTML, MySql, Basic, VB/ASP, Perl, C++, C, Java, CLISP, Lingo, Authorware, Scheme, .NET, Coldfusion, JSP, Lynux, and old school DOS
+More or Less: PHP, JavaScript, HTML, MySql, Basic, VB/ASP, Perl, C++, C, Java, CLISP, Lingo, Authorware, Scheme, .NET, Coldfusion, JSP, Lynux, and old school DOS (told you I am old...)
 
 Hobbies: salsa dancing, parkur, music, robotics, electronics and engineering, recycling, honey bee keeping, and the list is endless.
 
